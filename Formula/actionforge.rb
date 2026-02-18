@@ -1,8 +1,8 @@
 class Actionforge < Formula
   desc "One-click self-hosted GitHub Actions CI runners"
   homepage "https://github.com/FlutterPlaza/actionforge"
-  url "https://github.com/FlutterPlaza/actionforge/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "f5c6457eca8f08be0803f1148b584559934a57dad9b4a2597cccaf90c4b9cc1d"
+  url "https://github.com/FlutterPlaza/actionforge/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "2fd8db573fb63986ae84a472e3ff4461d8c7546543515bcf2158901cc8c0aacb"
   license "BSD-3-Clause"
 
   depends_on "jq"
